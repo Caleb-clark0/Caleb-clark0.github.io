@@ -1,0 +1,35 @@
+#Hyvee{
+    display: flex;
+    justify-content: center;
+}
+img{
+    margin: 3%;
+}
+#Hyvee h2{
+    margin: 1%;
+    margin-top: 6%;
+}
+#Hyvee h3{
+    margin: 1%;
+    margin-top: 6%;
+}
+#Hyvee p{
+    margin: 1%;
+    margin-top: 6%;
+}
+#Musco{
+    display: flex;
+    justify-content: center;
+}
+#Musco h2{
+    margin: 1%;
+    margin-top: 6%;
+}
+#Musco h3{
+    margin: 1%;
+    margin-top: 6%;
+}
+#Musco p{
+    margin: 1%;
+    margin-top: 6%;
+}

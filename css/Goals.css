@@ -1,0 +1,11 @@
+table{
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+    font-size: 18pt;
+    
+}
+th, td {
+    padding: 4px;
+    border: 1px solid black;
+  }

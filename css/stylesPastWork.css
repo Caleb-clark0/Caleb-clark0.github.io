@@ -1,0 +1,15 @@
+#contact{
+    background-color: rgb(1, 1, 128);
+    color: white;
+    margin-top: 14px;
+    margin-right: 25px;
+}
+#COBOL1{
+    display: flex;
+    justify-content: center;
+}
+#COBOL2{
+    display: flex;
+    justify-content: center;
+}
+    
